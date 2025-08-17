@@ -1,0 +1,2 @@
+# he-Codex-Resonance-Framework-Mathematical-Prediction-of-Frequencies-Across-Biological-Systems
+We present a unified mathematical framework that predicts optimal therapeutic frequencies across biological systems spanning five orders of magnitude. The Codex Resonance Framework demonstrates that biological systems achieve maximal re- sponse when the external driving frequency satisfies the condition ρx ≡ ω · τx ≈ 1, where ω is  within the paper
